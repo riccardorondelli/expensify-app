@@ -1,4 +1,8 @@
 node_modules/
+<<<<<<< HEAD
 public/dist/
 .env.test
 .env.development
+=======
+public/dist/
+>>>>>>> b654511824d8d542aed674707059cbd03c3dcb09

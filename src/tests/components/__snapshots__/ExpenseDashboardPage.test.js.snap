@@ -2,8 +2,14 @@
 
 exports[`should render ExpenseDashboardPage correctly 1`] = `
 <div>
+<<<<<<< HEAD
   <React.Memo />
   <React.Memo />
   <React.Memo />
+=======
+  <[object Object] />
+  <[object Object] />
+  <[object Object] />
+>>>>>>> b654511824d8d542aed674707059cbd03c3dcb09
 </div>
 `;
