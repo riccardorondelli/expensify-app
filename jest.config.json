@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "snapshotSerializers": [
     "enzyme-to-json/serializer"
   ],
@@ -7,13 +6,3 @@
     "<rootDir>/src/tests/setupTests.js"
   ]
 }
-=======
-  "setupFiles": [
-    "raf/polyfill",
-    "<rootDir>/src/tests/setupTests.js"
-  ],
-  "snapshotSerializers": [
-    "enzyme-to-json/serializer"
-  ]
-}
->>>>>>> b654511824d8d542aed674707059cbd03c3dcb09

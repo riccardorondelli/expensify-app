@@ -1,5 +1,4 @@
 const path = require('path');
-<<<<<<< HEAD
 const webpack = require('webpack');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
 
@@ -11,10 +10,6 @@ if(process.env.NODE_ENV === 'test') {
   require('dotenv').config({ path: '.env.development' });
 }
 
-=======
-const ExtractTextPlugin = require('extract-text-webpack-plugin');
-
->>>>>>> b654511824d8d542aed674707059cbd03c3dcb09
 module.exports = (env) => {
   const isProduction = env === 'production';
   const CSSExtract = new ExtractTextPlugin('styles.css');
@@ -51,7 +46,6 @@ module.exports = (env) => {
       }]
     },
     plugins: [
-<<<<<<< HEAD
       CSSExtract,
       new webpack.DefinePlugin({
         'process.env.FIREBASE_API_KEY': JSON.stringify(process.env.FIREBASE_API_KEY),
@@ -61,9 +55,6 @@ module.exports = (env) => {
         'process.env.FIREBASE_STORAGE_BUCKET': JSON.stringify(process.env.FIREBASE_STORAGE_BUCKET),
         'process.env.FIREBASE_MESSAGING_SENDER_ID': JSON.stringify(process.env.FIREBASE_MESSAGING_SENDER_ID)
       })
-=======
-      CSSExtract
->>>>>>> b654511824d8d542aed674707059cbd03c3dcb09
     ],
     devtool: isProduction ? 'source-map' : 'inline-source-map',
     devServer: {
@@ -73,7 +64,3 @@ module.exports = (env) => {
     }
   };
 };
-<<<<<<< HEAD
-=======
-
->>>>>>> b654511824d8d542aed674707059cbd03c3dcb09
