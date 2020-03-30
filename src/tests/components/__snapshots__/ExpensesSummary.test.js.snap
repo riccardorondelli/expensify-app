@@ -21,11 +21,7 @@ exports[`should correctly render ExpensesSummary with multiple expenses 1`] = `
      
     expenses
      totalling 
-<<<<<<< HEAD
     $235,123,409.87
-=======
-    $2,351,234.09
->>>>>>> b654511824d8d542aed674707059cbd03c3dcb09
   </h1>
 </div>
 `;

@@ -5,31 +5,18 @@ exports[`should render Header correctly 1`] = `
   <h1>
     Expensify
   </h1>
-<<<<<<< HEAD
   <[object Object]
-=======
-  <NavLink
->>>>>>> b654511824d8d542aed674707059cbd03c3dcb09
     activeClassName="is-active"
     exact={true}
     to="/"
   >
     Dashboard
-<<<<<<< HEAD
   </[object Object]>
   <[object Object]
-=======
-  </NavLink>
-  <NavLink
->>>>>>> b654511824d8d542aed674707059cbd03c3dcb09
     activeClassName="is-active"
     to="/create"
   >
     Create Expense
-<<<<<<< HEAD
   </[object Object]>
-=======
-  </NavLink>
->>>>>>> b654511824d8d542aed674707059cbd03c3dcb09
 </header>
 `;

@@ -2,22 +2,13 @@
 
 exports[`should render ExpenseListItem correctly 1`] = `
 <div>
-<<<<<<< HEAD
   <[object Object]
-=======
-  <Link
-    replace={false}
->>>>>>> b654511824d8d542aed674707059cbd03c3dcb09
     to="/edit/1"
   >
     <h3>
       Gum
     </h3>
-<<<<<<< HEAD
   </[object Object]>
-=======
-  </Link>
->>>>>>> b654511824d8d542aed674707059cbd03c3dcb09
   <p>
     $1.95
     -

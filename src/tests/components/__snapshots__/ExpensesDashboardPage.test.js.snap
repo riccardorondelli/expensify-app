@@ -2,8 +2,8 @@
 
 exports[`should render ExpenseList and ExpenseListFilters 1`] = `
 <div>
-  <[object Object] />
-  <[object Object] />
-  <[object Object] />
+  <React.Memo />
+  <React.Memo />
+  <React.Memo />
 </div>
 `;

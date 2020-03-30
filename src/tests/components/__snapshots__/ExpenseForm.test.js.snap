@@ -61,11 +61,7 @@ exports[`should render ExpenseForm correctly 1`] = `
           "jumpToNextMonth": "Move forward to switch to the next month",
           "jumpToPrevMonth": "Move backward to switch to the previous month",
           "keyboardNavigationInstructions": "Press the down arrow key to interact with the calendar and
-<<<<<<< HEAD
   select a date. Press the question mark key to get the keyboard shortcuts for changing dates.",
-=======
-          select a date. Press the question mark key to get the keyboard shortcuts for changing dates.",
->>>>>>> b654511824d8d542aed674707059cbd03c3dcb09
           "keyboardShortcuts": "Keyboard Shortcuts",
           "leftArrowRightArrow": "Right and left arrow keys",
           "moveFocusByOneDay": "Move backward (left) and forward (right) by one day",
@@ -167,11 +163,7 @@ exports[`should render ExpenseForm correctly with expense data 1`] = `
           "jumpToNextMonth": "Move forward to switch to the next month",
           "jumpToPrevMonth": "Move backward to switch to the previous month",
           "keyboardNavigationInstructions": "Press the down arrow key to interact with the calendar and
-<<<<<<< HEAD
   select a date. Press the question mark key to get the keyboard shortcuts for changing dates.",
-=======
-          select a date. Press the question mark key to get the keyboard shortcuts for changing dates.",
->>>>>>> b654511824d8d542aed674707059cbd03c3dcb09
           "keyboardShortcuts": "Keyboard Shortcuts",
           "leftArrowRightArrow": "Right and left arrow keys",
           "moveFocusByOneDay": "Move backward (left) and forward (right) by one day",
@@ -273,11 +265,7 @@ exports[`should render error for invalid form submission 1`] = `
           "jumpToNextMonth": "Move forward to switch to the next month",
           "jumpToPrevMonth": "Move backward to switch to the previous month",
           "keyboardNavigationInstructions": "Press the down arrow key to interact with the calendar and
-<<<<<<< HEAD
   select a date. Press the question mark key to get the keyboard shortcuts for changing dates.",
-=======
-          select a date. Press the question mark key to get the keyboard shortcuts for changing dates.",
->>>>>>> b654511824d8d542aed674707059cbd03c3dcb09
           "keyboardShortcuts": "Keyboard Shortcuts",
           "leftArrowRightArrow": "Right and left arrow keys",
           "moveFocusByOneDay": "Move backward (left) and forward (right) by one day",
@@ -382,11 +370,7 @@ exports[`should render error for invalid form submission 2`] = `
           "jumpToNextMonth": "Move forward to switch to the next month",
           "jumpToPrevMonth": "Move backward to switch to the previous month",
           "keyboardNavigationInstructions": "Press the down arrow key to interact with the calendar and
-<<<<<<< HEAD
   select a date. Press the question mark key to get the keyboard shortcuts for changing dates.",
-=======
-          select a date. Press the question mark key to get the keyboard shortcuts for changing dates.",
->>>>>>> b654511824d8d542aed674707059cbd03c3dcb09
           "keyboardShortcuts": "Keyboard Shortcuts",
           "leftArrowRightArrow": "Right and left arrow keys",
           "moveFocusByOneDay": "Move backward (left) and forward (right) by one day",
