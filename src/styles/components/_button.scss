@@ -1,0 +1,36 @@
+.button {
+  padding: $s-size;
+  background: $light-blue;
+  border: none;
+  color: $off-white;
+  display: inline-block;
+  border-radius: 5px;
+  font-size: $font-size-large;
+  font-weight: 300;
+  line-height: 1;
+  text-decoration: none;
+}
+
+.button--hover {
+  transition: background 0.3s ease;
+  &:hover {
+    background: $blue;
+    border-radius: 5.5px;
+  }
+}
+
+.button--link {
+  background: none;
+  &:hover {
+    color: white;
+  }
+}
+
+.button--secondary {
+  background: $grey;
+  transition: background 0.3s ease;
+  &:hover {
+    background: darken($grey, 10%);
+    border-radius: 5.5px;
+  }
+}
